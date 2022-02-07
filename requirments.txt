@@ -1,0 +1,4 @@
+pygame
+numpy
+pip
+setuptools 
